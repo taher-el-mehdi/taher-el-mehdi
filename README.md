@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm TAHER El Mehdi 
 
 🚀 **Microsoft Dynamics 365 Business Central and CRM Consultant**  
-📍 Based in **Casablanca** | 💡 Building better ERPs and CRMs.
+📍 Based in **Casablanca, Morocco** | 💡 Building better ERPs and CRMs.  
 
 ---
 
