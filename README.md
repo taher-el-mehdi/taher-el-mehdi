@@ -6,6 +6,9 @@ I develop and customize **Dynamics 365 Business Central** through **extensions**
 ### 🛠️ Tools
 * **[bc-table-field-finder](https://taher-el-mehdi.github.io/bc-table-field-finder/)**
   🔍 Search and explore **Microsoft Dynamics 365 Business Central** tables and fields with an intuitive web interface.
+  
+* **[bc-XLIFF-translator](https://taher-el-mehdi.github.io/bc-XLIFF-translator/)**
+  🌐 web-based tool that allows developers to import, translate, and export XLF files used for Business Central extension localization directly in browser.
 
 ### 🎮 Games
 
