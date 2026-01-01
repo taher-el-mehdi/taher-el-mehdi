@@ -17,6 +17,9 @@ I develop and customize **Dynamics 365 Business Central** through **extensions**
 * **[AL Tables hunter](https://taher-el-mehdi.github.io/bc-tables-hunter/)**
   🎯 A fun game for **AL developers** to hunt Business Central tables by matching **table IDs** with their corresponding **names**.
 
+* **[AppSource Business Central Tracker](https://github.com/taher-el-mehdi/bc-marketplace-apps-tracker)**
+  🧩 Automatically tracks new Microsoft AppSource apps published for Dynamics 365 Business Central.
+
 ### 💻 Extensions
 * **[BC Record Cleanup](https://github.com/taher-el-mehdi/bc-records-cleanup)**
  🧹 **Business Central extension** that allows safe, controlled, and dynamic deletion of records based on filters and rules.
