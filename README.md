@@ -15,6 +15,8 @@ I develop and customize **Dynamics 365 Business Central** through **extensions**
 
 * **[AppSource Business Central Tracker](https://github.com/taher-el-mehdi/bc-marketplace-apps-tracker)**
   🧩 Automatically tracks new Microsoft AppSource apps published for Dynamics 365 Business Central.
+* **[Gist Scope](https://taher-el-mehdi.github.io/gist-scope/)**
+  🔍 Explore, search, and preview your GitHub gists by language.
   
 ### 🎮 Games
 
