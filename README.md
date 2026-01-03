@@ -24,6 +24,10 @@ I develop and customize **Dynamics 365 Business Central** through **extensions**
   🎯 A fun game for **AL developers** to hunt Business Central tables by matching **table IDs** with their corresponding **names**.
 
 
-### 💻 Extensions
+### 💻 Extensions AL
 * **[BC Record Cleanup](https://github.com/taher-el-mehdi/bc-records-cleanup)**
  🧹 **Business Central extension** that allows safe, controlled, and dynamic deletion of records based on filters and rules.
+
+### ✨ Extensions Browser
+* **[Dynamics Community Image Viewer](https://taher-el-mehdi.github.io/dynamics-community-image-preview/)**
+ 🖼️ image previews for Microsoft Dynamics Community forums.
