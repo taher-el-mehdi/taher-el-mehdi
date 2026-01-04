@@ -31,3 +31,14 @@ I develop and customize **Dynamics 365 Business Central** through **extensions**
 ### ✨ Extensions Browser
 * **[Dynamics Community Image Viewer](https://taher-el-mehdi.github.io/dynamics-community-image-preview/)**
  🖼️ image previews for Microsoft Dynamics Community forums.
+
+## 📬 Contact
+You can reach me here:  
+📧 **[mehditaher01@gmail.com](mailto:mehditaher01@gmail.com)**
+
+---
+## ☕ Support My Work
+If you enjoy my projects and want to support:  
+<a href="https://buymeacoffee.com/mehditaher01" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee">
+</a>
