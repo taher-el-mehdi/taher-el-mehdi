@@ -18,7 +18,7 @@ I develop and customize **Dynamics 365 Business Central** through **extensions**
 * **[Gist Scope](https://taher-el-mehdi.github.io/gist-scope/)**
   🔍 Explore, search, and preview your GitHub gists by language.
 *  **[image-to-ascii](https://taher-el-mehdi.github.io/image-to-ascii/)**
-  🖼️→🔡 Convert images to ASCII art in your browser — upload, tweak, copy/download ✨ **[image-2-ascii (old version)](https://taher-el-mehdi.github.io/image-2-ascii/)**
+  🖼️→🔡 Convert images to ASCII art in your browser. **[image-2-ascii (old version)](https://taher-el-mehdi.github.io/image-2-ascii/)**
   
 ### 🎮 Games
 
