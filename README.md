@@ -17,6 +17,8 @@ I develop and customize **Dynamics 365 Business Central** through **extensions**
   🧩 Automatically tracks new Microsoft AppSource apps published for Dynamics 365 Business Central.
 * **[Gist Scope](https://taher-el-mehdi.github.io/gist-scope/)**
   🔍 Explore, search, and preview your GitHub gists by language.
+*  **[image-to-ascii](https://taher-el-mehdi.github.io/image-to-ascii/)**
+  🖼️→🔡 Convert images to ASCII art in your browser — upload, tweak, copy/download ✨ **[image-2-ascii (old version)](https://taher-el-mehdi.github.io/image-2-ascii/)**
   
 ### 🎮 Games
 
