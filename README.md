@@ -19,6 +19,8 @@ I develop and customize **Dynamics 365 Business Central** through **extensions**
   🔍 Explore, search, and preview your GitHub gists by language.
 *  **[image-to-ascii](https://taher-el-mehdi.github.io/image-to-ascii/)**
   🖼️→🔡 Convert images to ASCII art in your browser. **[image-2-ascii (old version)](https://taher-el-mehdi.github.io/image-2-ascii/)**
+*  **[json-to-xlsx](https://taher-el-mehdi.github.io/json-to-xlsx/)**
+  📄→📊 Convert JSON to paginated table and export to Excel (.xlsx)
   
 ### 🎮 Games
 
