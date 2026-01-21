@@ -1,24 +1,28 @@
 # 👋 TAHER El Mehdi 
 I develop and customize **Dynamics 365 Business Central** through **extensions** built with best practices, clean code, performance, and extensibility.
 
-## 🚀 Open Source Projects sdqfsd
+## 💻 Extensions
+### 💻 AL
+* **[BC Record Cleanup](https://github.com/taher-el-mehdi/bc-records-cleanup)**
+ 🧹 **Business Central extension** that allows safe, controlled, and dynamic deletion of records based on filters and rules.
+
+### ✨ Vs-code
+* **[AL Object ID Manager](https://taher-el-mehdi.github.io/bc-al-object-id-manager/)**
+ VS Code extension to fix AL object ID ranges for Business Central projects.
+
+* **[AL Project Folder Organizer](https://taher-el-mehdi.github.io/bc-al-project-folder-organizer/)**
+  Organize Business Central AL projects into clean folders by object type.
+
+### ✨ Browser
+* **[Dynamics Community Image Viewer](https://taher-el-mehdi.github.io/dynamics-community-image-preview/)**
+ 🖼️ image previews for Microsoft Dynamics Community forums.
+
+
 
 ### 🛠️ Tools
-* **[BC Table & Fields Finder](https://taher-el-mehdi.github.io/bc-table-field-finder/)**
-  🔍 Search and explore **Microsoft Dynamics 365 Business Central** tables and fields with an intuitive web interface.
-  
 * **[BC XLIFF Translator](https://taher-el-mehdi.github.io/bc-XLIFF-translator/)**
   🌐 web-based tool that allows developers to import, translate, and export XLF files used for Business Central extension localization directly in browser.
 
-* **[UTF-8 Text Sanitizer](https://taher-el-mehdi.github.io/text-utf8-sanitizer/)**
-  **¯\\_(ツ)_/¯** Detect and fix invalid UTF-8 characters in text files; directly in your browser.
-
-* **[AppSource Business Central Tracker](https://github.com/taher-el-mehdi/bc-marketplace-apps-tracker)**
-  🧩 Automatically tracks new Microsoft AppSource apps published for Dynamics 365 Business Central.
-* **[Gist Scope](https://taher-el-mehdi.github.io/gist-scope/)**
-  🔍 Explore, search, and preview your GitHub gists by language.
-*  **[image-to-ascii](https://taher-el-mehdi.github.io/image-to-ascii/)**
-  🖼️→🔡 Convert images to ASCII art in your browser. **[image-2-ascii (old version)](https://taher-el-mehdi.github.io/image-2-ascii/)**
 *  **[sheet-bridge](https://taher-el-mehdi.github.io/sheet-bridge/)**
   📄→📊 JSON ↔ Excel converter with preview, pagination, and export.
   
@@ -27,14 +31,6 @@ I develop and customize **Dynamics 365 Business Central** through **extensions**
 * **[AL Tables hunter](https://taher-el-mehdi.github.io/bc-tables-hunter/)**
   🎯 A fun game for **AL developers** to hunt Business Central tables by matching **table IDs** with their corresponding **names**.
 
-
-### 💻 Extensions AL
-* **[BC Record Cleanup](https://github.com/taher-el-mehdi/bc-records-cleanup)**
- 🧹 **Business Central extension** that allows safe, controlled, and dynamic deletion of records based on filters and rules.
-
-### ✨ Extensions Browser
-* **[Dynamics Community Image Viewer](https://taher-el-mehdi.github.io/dynamics-community-image-preview/)**
- 🖼️ image previews for Microsoft Dynamics Community forums.
 
 ## 📬 Contact
 You can reach me here:  
