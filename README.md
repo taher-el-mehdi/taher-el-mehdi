@@ -12,22 +12,21 @@ I develop and customize **Dynamics 365 Business Central** through **extensions**
 
 * **[AL Project Folder Organizer](https://taher-el-mehdi.github.io/bc-al-project-folder-organizer/)**
   Organize Business Central AL projects into clean folders by object type.
+* **[C/AL to AL](https://github.com/taher-el-mehdi/cal-to-al)**
+  ➡️ Convert C/AL to AL in VS Code.
+
+* **[C/AL File Splitter](https://github.com/taher-el-mehdi/nav-cal-file-splitter)**
+  📄✂️ VS Code extension that splits large Navision / Dynamics NAV CAL export file into separate files.
 
 ### ✨ Browser
 * **[Dynamics Community Image Viewer](https://taher-el-mehdi.github.io/dynamics-community-image-preview/)**
  🖼️ image previews for Microsoft Dynamics Community forums.
 
-
-
 ### 🛠️ Tools
-* **[BC XLIFF Translator](https://taher-el-mehdi.github.io/bc-XLIFF-translator/)**
-  🌐 web-based tool that allows developers to import, translate, and export XLF files used for Business Central extension localization directly in browser.
-
 *  **[sheet-bridge](https://taher-el-mehdi.github.io/sheet-bridge/)**
   📄→📊 JSON ↔ Excel converter with preview, pagination, and export.
   
 ### 🎮 Games
-
 * **[AL Tables hunter](https://taher-el-mehdi.github.io/bc-tables-hunter/)**
   🎯 A fun game for **AL developers** to hunt Business Central tables by matching **table IDs** with their corresponding **names**.
 
