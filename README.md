@@ -17,10 +17,10 @@ I specialize in **AL development**, **VS Code extensions**, and helpful tools fo
 
 ##### ✨ VS Code Extensions
 
-* **[AL Object ID Manager](https://taher-el-mehdi.github.io/bc-al-object-id-manager/)**
+* **[AL Object ID Manager](https://github.com/taher-el-mehdi/bc-al-object-id-manager/)**
   Manage and fix AL object ID ranges easily in Business Central projects.
 
-* **[AL Project Folder Organizer](https://taher-el-mehdi.github.io/bc-al-project-folder-organizer/)**
+* **[AL Project Folder Organizer](https://github.com/taher-el-mehdi/bc-al-project-folder-organizer/)**
   Automatically organize AL projects into clean folders by object type.
 
 * **[C/AL to AL Converter](https://github.com/taher-el-mehdi/cal-to-al)**
