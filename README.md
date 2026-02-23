@@ -28,6 +28,9 @@ I specialize in **AL development**, **VS Code extensions**, and helpful tools fo
 
 * **[C/AL File Splitter](https://github.com/taher-el-mehdi/nav-cal-file-splitter)**
   Split large Dynamics NAV / Navision CAL export files into separate objects.
+  
+* **[AL Extension](https://github.com/taher-el-mehdi/bc-al-extension)**
+  Fix object names, automate tasks, and streamline Business Central development.
 
 ---
 
