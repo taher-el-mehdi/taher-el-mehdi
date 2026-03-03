@@ -31,6 +31,9 @@ I specialize in **AL development**, **VS Code extensions**, and helpful tools fo
   
 * **[AL Extension](https://github.com/taher-el-mehdi/bc-al-extension)**
   Fix object names, automate tasks, and streamline Business Central development.
+  
+* **[JSON to AL](https://github.com/taher-el-mehdi/json-to-al)**
+  Convert JSON files into Microsoft Dynamics 365 Business Central AL objects.
 
 ---
 
