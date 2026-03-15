@@ -10,9 +10,11 @@ I specialize in **AL development**, **VS Code extensions**, and helpful tools fo
 
 ##### 💻 Business Central (AL)
 
-* **[BC Record Cleanup](https://github.com/taher-el-mehdi/bc-records-cleanup)**
+* **[Records Cleanup](https://github.com/taher-el-mehdi/bc-records-cleanup)**
   🧹 Business Central extension for safe, controlled, and dynamic deletion of records using filters and rules.
 
+* **[Systemization](https://github.com/taher-el-mehdi/bc-systemization)**
+  ⚙️ Extend Business Central beyond personalization by adding structured custom fields across tables and pages — without development.
 ---
 
 ##### ✨ VS Code Extensions
