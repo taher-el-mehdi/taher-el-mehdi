@@ -1,23 +1,17 @@
 ### Hi there 👋
 
-I'm **[TAHER El Mehdi](https://www.linkedin.com/in/taher-el-mehdi/)**, a Microsoft Dynamics 365 Business Central developer who builds extensions, tools, and open-source projects focused on clean code, performance, and real-world productivity.
-
-I specialize in **AL development**, **VS Code extensions**, and helpful tools for the Business Central community.
+I'm **[TAHER El Mehdi](https://www.linkedin.com/in/taher-el-mehdi/)**, a Microsoft Dynamics 365 Business Central developer.
 
 ---
+#### Open source projects:
 
-#### 👨‍💻 Extensions & Tools I’ve Created
-
-##### 💻 Business Central (AL)
-
-* **[Records Cleanup](https://github.com/taher-el-mehdi/bc-records-cleanup)**
-  🧹 Business Central extension for safe, controlled, and dynamic deletion of records using filters and rules.
+#####  Business Central AL Extensions
 
 * **[Systemization](https://github.com/taher-el-mehdi/bc-systemization)**
   ⚙️ Extend Business Central beyond personalization by adding structured custom fields across tables and pages — without development.
 ---
 
-##### ✨ VS Code Extensions
+#####  Visual Studio Code Extensions:
 
 * **[AL Object ID Manager](https://github.com/taher-el-mehdi/bc-al-object-id-manager/)**
   Manage and fix AL object ID ranges easily in Business Central projects.
@@ -39,31 +33,10 @@ I specialize in **AL development**, **VS Code extensions**, and helpful tools fo
 
 ---
 
-##### 🌐 Browser Tools
+##### Browser Extensions:
 
 * **[Dynamics Community Image Viewer](https://taher-el-mehdi.github.io/dynamics-community-image-preview/)**
   Preview images directly in Microsoft Dynamics Community forums.
-
----
-
-##### 🛠️ Developer Tools
-
-* **[sheet-bridge](https://taher-el-mehdi.github.io/sheet-bridge/)**
-  📄 → 📊 JSON ↔ Excel converter with preview, pagination, and export.
-
----
-
-##### 🎮 Fun for AL Developers
-
-* **[AL Tables Hunter](https://taher-el-mehdi.github.io/bc-tables-hunter/)**
-  🎯 A game to match Business Central table IDs with their names — learn while having fun!
-
----
-
-#### 📬 Get in touch
-
-You can reach me at:
-📧 **[mehditaher01@gmail.com](mailto:mehditaher01@gmail.com)**
 
 ---
 
