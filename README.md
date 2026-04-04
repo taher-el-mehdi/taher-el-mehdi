@@ -1,18 +1,26 @@
-### Technical Consultant Microsoft Dynamics 365 Business Central.
+### Technical Consultant — Microsoft Dynamics 365 Business Central
 
-#### Open source projects:
+### 🛠️ Open Source Projects
 
-* **[Object Designer](https://taher-el-mehdi.github.io/bc-object-designer/)**:
-  Object Designer for Business Central .app files.
-  
-* **[Systemization](https://github.com/taher-el-mehdi/bc-systemization)**:
-  Extend Business Central beyond personalization.
+* 🔹 **[Object Designer](https://taher-el-mehdi.github.io/bc-object-designer/)**
+  Visualize and explore `.app` objects in Business Central with ease.
 
-* **[C/AL to AL Converter](https://github.com/taher-el-mehdi/cal-to-al)**:
-   Convert C/AL to AL directly in VS Code.
-  
-#### To support open source:
+* 🔹 **[Systemization](https://github.com/taher-el-mehdi/bc-systemization)**
+  Go beyond personalization — structure and standardize your Business Central environment.
 
-<a href="https://buymeacoffee.com/mehditaher01" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee">
-</a>
+* 🔹 **[C/AL to AL Converter](https://github.com/taher-el-mehdi/cal-to-al)**
+  Seamlessly convert legacy C/AL code to modern AL directly inside VS Code.
+
+---
+
+### 🌍 Websites
+
+* 🎓 **[ZeroCertification](https://zerocertification.com)**
+  Simplifying your journey to Microsoft certifications.
+
+* 🌐 **[BCi18n](https://bci18n.com/)**
+  Effortless translation of Business Central extensions.
+
+* 🤝 **[Wraje](https://wraje.com/)**
+  Supporting customers with smart digital solutions.
+
