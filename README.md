@@ -2,13 +2,13 @@
 
 ### 🛠️ Open Source Projects
 
-* 🔹 **[Object Designer](https://taher-el-mehdi.github.io/bc-object-designer/)**
+*  **[Object Designer](https://taher-el-mehdi.github.io/bc-object-designer/)**
   Visualize and explore `.app` objects in Business Central with ease.
 
-* 🔹 **[Systemization](https://github.com/taher-el-mehdi/bc-systemization)**
+*  **[Systemization](https://github.com/taher-el-mehdi/bc-systemization)**
   Go beyond personalization — structure and standardize your Business Central environment.
 
-* 🔹 **[C/AL to AL Converter](https://github.com/taher-el-mehdi/cal-to-al)**
+*  **[C/AL to AL Converter](https://github.com/taher-el-mehdi/cal-to-al)**
   Seamlessly convert legacy C/AL code to modern AL directly inside VS Code.
 
 ---
